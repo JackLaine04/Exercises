@@ -1,9 +1,14 @@
 
 public abstract class Sophomore extends Student {
+// Author = Jack Laine
 
-	public static void main(String[]args) {
-		
-		int age = 16;
-		
+	private int age = 16;
+
+	while (age == 16) {
+		System.out.println("be sophomore");
+		}
 	}
 }
+
+		
+		

@@ -1,15 +1,13 @@
 
-public class Person {
-	
+public abstract class Person {
+	// author = Jack Laine
 	public static void main(String[]args) {
 	}
-		public void name() {
-	}
-		public void address() {
-		}
-		int PhoneNumber;
+		String name;
 		
-		public void EmailAddress() {
-		}
+		String phoneNumber;
+				
+		String emailAddress;
+		
 }
 

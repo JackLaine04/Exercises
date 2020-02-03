@@ -1,21 +1,33 @@
 
 public abstract class Employee extends Person {
-
+// author = Jack Laine
 	public static void main(String[]args) {
 	}
-		public void name() {
+		
+		String dateOfBirth;
+	
+	
+		public void getSalary{
 		}
+	
+	
+		private int dateHired;
+	
+	
+		String name;
+		
+		
 		public void Vacation() {
 		}
-		public void ssn() {
-		}
-		int dateOfBirth;
 		
-		int paySalary;
 		
-		public void office() {
-		}
-		int dateHired;
+		String ssn;
+		
+		
+		String office;
+		
+		
+		
 		
 	
 }
